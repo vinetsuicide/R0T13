@@ -3,7 +3,7 @@ very veryyy simple ROT13 Encoder &amp; Decoder in Python
 
 ## Usage?
 
-1. git clone <link>
+1. git clone [<link>](https://github.com/vinetsuicide/R0T13.git)
 
 2. cd R0T13
 
