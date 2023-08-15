@@ -10,7 +10,7 @@ very veryyy simple ROT13 Encoder &amp; Decoder in Python
 3. Run the script using the following command:
 
     ```
-    python rot13_encoder_decoder.py
+    python3 rot13.py
     ```
 
 4. choose between encode/decode, then enter ur text
